@@ -22,10 +22,6 @@
 - [Advanced Features](#advanced-features)
 - [Use Cases](#use-cases)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ---
 
 ## 🎯 Overview
