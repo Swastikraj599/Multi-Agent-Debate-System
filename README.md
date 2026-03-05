@@ -90,7 +90,7 @@ Each agent has a unique role, expertise area, and stance:
 
 ## 🚀 Live Demo
 
-**Try it now:** [YOUR_HUGGINGFACE_SPACE_URL]
+**Try it now:** [https://huggingface.co/spaces/swastikraj/multi-agent-debate-system]
 
 No installation required! The app is deployed on Hugging Face Spaces with:
 - ✅ Free, permanent hosting
