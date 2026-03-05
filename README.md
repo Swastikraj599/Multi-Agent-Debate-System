@@ -34,7 +34,6 @@ Complex decisions often benefit from multiple perspectives, but traditional AI s
 ### The Solution
 This system simulates expert panel discussions where three AI agents with different expertise and stances debate topics, challenge each other's reasoning, and provide comprehensive analysis.
 
-**Built for:** Wipro AI Track Training Assessment  
 **Focus Areas:** Deep Learning, Machine Learning, Generative AI, Agentic AI  
 **Development Period:** February 2026
 
