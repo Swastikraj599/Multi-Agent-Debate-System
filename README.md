@@ -453,47 +453,6 @@ git commit -m 'Add some AmazingFeature'
 git push origin feature/AmazingFeature
 ```
 
-5. **Open a Pull Request**
-
----
-
-## 📄 License
-
-This project is created for educational purposes as part of Wipro AI Track Training.
-
----
-
-## 👤 Author
-
-**[Your Name]**  
-Wipro AI Track Training Participant  
-February 2026
-
-### Connect with Me
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [@Swastikraj599](https://github.com/Swastikraj599)
-- 🌐 Portfolio: [Your Portfolio URL]
-
----
-
-## 🙏 Acknowledgments
-
-- **Wipro AI Track Training** - For providing comprehensive AI/ML education
-- **Hugging Face** - For open-source transformers and models
-- **Gradio Team** - For the excellent UI framework
-- **OpenAI** - For inspiration from multi-agent systems research
-
----
-
-## 📞 Contact & Support
-
-For questions, suggestions, or support:
-
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐙 GitHub Issues: [Create an issue](https://github.com/Swastikraj599/Multi-Agent-Debate-System/issues)
-
 ---
 
 ## ⭐ If you found this project helpful, please consider giving it a star!
